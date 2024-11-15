@@ -1,0 +1,128 @@
+{
+    "image": "Camera/ 00000034 .jpg",
+    "point_cloud": "LiDAR/ 00000034 .pcd",
+    "meta": {
+        "time": "Day",
+        "environment": "Indoor",
+        "weather": "None",
+        "place": "Small and Medium",
+        "city": "Gwangju",
+        "terrain": "Urban",
+        "road_type": "ge 4m",
+        "road_material": "Paved"
+    },
+    "calib": {
+        "intrinsic": [
+            [ 1397.991371 , 0.0 , 960.0 ],
+            [ 0.0 , 1397.991371 , 540.0 ],
+            [ 0.0 , 0.0 , 1.0 ]
+        ],
+        "rotation": [ -0.96517669 , -1.502906215 , 2.560259924 ],
+        "translation": [ 0.13620099 , 1.34389899 , 1.35197656 ]
+    },
+    "bbox2d": [
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 1906.45 , 855.38 , 1920.0 , 881.41 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 344.14 , 658.54 , 386.33 , 662.12 ]
+        },
+        {
+            "name": "Disabled Parking Space",
+            "occluded": false,
+            "bbox": [ 940.23 , 761.84 , 1671.16 , 797.52 ]
+        },
+        {
+            "name": "Disabled Parking Space",
+            "occluded": false,
+            "bbox": [ 910.34 , 734.84 , 1436.84 , 752.2 ]
+        },
+        {
+            "name": "Disabled Parking Space",
+            "occluded": false,
+            "bbox": [ 1053.05 , 874.66 , 1920.0 , 998.09 ]
+        },
+        {
+            "name": "Parking Sign",
+            "occluded": false,
+            "bbox": [ 1606.83 , 576.55 , 1639.66 , 625.8 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 1340.75 , 736.31 , 1383.38 , 754.72 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 1432.15 , 753.11 , 1575.85 , 798.64 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 43.76 , 678.56 , 117.04 , 688.25 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 10.04 , 684.38 , 39.54 , 692.13 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 27.87 , 694.06 , 124.02 , 710.34 ]
+        },
+        {
+            "name": "Parking Block",
+            "occluded": false,
+            "bbox": [ 124.37 , 691.35 , 154.24 , 700.27 ]
+        }
+    ],
+    "segmentation": [
+        {
+            "name": "Driveable Space",
+            "polygon": [
+                [ 0.0 , 984.59 ],
+                [ 211.51 , 971.09 ],
+                [ 510.89 , 957.48 ],
+                [ 842.43 , 951.3 ],
+                [ 1094.8 , 956.25 ],
+                [ 957.5 , 799.1 ],
+                [ 890.68 , 722.43 ],
+                [ 995.84 , 719.96 ],
+                [ 883.26 , 670.47 ],
+                [ 852.33 , 666.76 ],
+                [ 582.64 , 665.53 ],
+                [ 358.72 , 721.2 ],
+                [ 0.0 , 811.24 ]
+            ]
+        },
+        {
+            "name": "Parking Space",
+            "size": "Normal",
+            "pattern": "Perpendicular",
+            "polygon": [
+                [ 0.0 , 765.1 ],
+                [ 149.4 , 766.0 ],
+                [ 250.51 , 744.9 ],
+                [ 0.0 , 740.37 ]
+            ]
+        },
+        {
+            "name": "Parking Space",
+            "size": "Normal",
+            "pattern": "Perpendicular",
+            "polygon": [
+                [ 318.05 , 725.32 ],
+                [ 0.0 , 722.1 ],
+                [ 0.0 , 736.9 ],
+                [ 256.38 , 742.47 ]
+            ]
+        }
+    ],
+    "bbox3d": []
+}
