@@ -1,6 +1,6 @@
 ## AI_Parking_Occupancy_Detection(Segmentation)
 - 최종 영상 (U-Net)
-  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)]( https://youtu.be/B96UbpyoJ6A)
+  [![Video Label](http://img.youtube.com/vi/B96UbpyoJ6A/0.jpg)]( https://youtu.be/B96UbpyoJ6A)
  
 
 
