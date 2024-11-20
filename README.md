@@ -1,4 +1,4 @@
-## AI_Parking_Occupancy_Detection
+## AI_Parking_Occupancy_Detection(Segmentation)
 
 
 ## Getting Started
