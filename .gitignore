@@ -164,11 +164,8 @@ cython_debug/
 # Excluding folder
 .vscode
 s_venv
+venv
 Mask_RCNN
 # Datasets don't want to upload
 seg_dataset
 # Any .py files
-project_seg.py
-
-# Exclude the current working .py file
-detect_parking_space.py
